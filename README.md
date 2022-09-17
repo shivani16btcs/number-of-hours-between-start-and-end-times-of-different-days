@@ -17,3 +17,9 @@ end-time : 19:35 dayCount: 2 *  Output 26: 10 hrs
     diff /= 60;
     let minReach= Math.abs(Math.round(diff));
     let hourReach = (this.minReach / 60 ).toFixed(0);
+    
+    
+    # count number of days spend together 
+ 
+    leetcode: https://leetcode.com/contest/biweekly-contest-87/problems/count-days-spent-together/
+
